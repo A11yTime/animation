@@ -14,9 +14,9 @@
     padding: 10px 20px;
     border: none;
     transition: background-color 0.3s ease, transform 0.3s ease;
-}
+}`
 
-.button:hover {
+`.button:hover {
     background-color: green;
     transform: scale(1.1);
 }
