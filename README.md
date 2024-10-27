@@ -21,3 +21,13 @@
     transform: scale(1.1);
 }
 `
+##### You can apply transformations using the transform property. Here’s the basic syntax:
+`selector {
+    transform: transform-function;
+}
+`
+##### Example:
+`transform: translate(20px, 30px) rotate(45deg) scale(1.2);
+`
+* The box moves 50 pixels to the right and down, and scales up by 20% when hovered over.
+* The transition is smooth due to the transition property.
